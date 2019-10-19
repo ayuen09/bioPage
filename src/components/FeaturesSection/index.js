@@ -21,7 +21,7 @@ function FeaturesSection(props) {
               {
                 title: "Transportation Accessibility Model - Ongoing",
                 body:
-                  "Examining accessibility of public transport in Boston compared to Singapore, using different metrics such as distance and location of subway stations.",
+                  "Examining how the robustness of public transportation relate with auto-dependencies in Boston and Vancouver",
                 image: "https://freetoursbyfoot.com/wp-content/uploads/2016/01/Boston-Subway-Map-1011x1024.jpg"
               },
               {
